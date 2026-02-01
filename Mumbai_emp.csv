@@ -1,0 +1,21 @@
+Employee_ID,Employee_Name,Department,City,Salary,Joining_Year
+E213,Priya Singh,Marketing,Mumbai,35000,2018
+E215,Amit Verma,Finance,Mumbai,18000,2018
+E220,Amit Verma,Hr,Mumbai,35000,2018
+E227,Suresh Kumar,Sales,Mumbai,18000,2022
+E234,Rahul Das,Marketing,Mumbai,45000,2020
+E248,Suresh Kumar,It,Mumbai,22000,2021
+E252,Rohit Sharma,Finance,Mumbai,35000,2018
+E255,Rohit Sharma,Hr,Mumbai,18000,2018
+E256,Pooja Nair,Hr,Mumbai,22000,2021
+E258,Anita Rao,Sales,Mumbai,22000,2022
+E262,Rohit Sharma,Hr,Mumbai,18000,2019
+E269,Suresh Kumar,It,Mumbai,55000,2022
+E275,Anita Rao,Finance,Mumbai,35000,2020
+E285,Priya Singh,Sales,Mumbai,15000,2020
+E289,Pooja Nair,Hr,Mumbai,15000,2021
+E293,Amit Verma,Hr,Mumbai,35000,2018
+E304,Rohit Sharma,Marketing,Mumbai,18000,2021
+E333,Neha Patil,Finance,Mumbai,15000,2019
+E339,Neha Patil,Finance,Mumbai,22000,2020
+E341,Priya Singh,Hr,Mumbai,18000,2021
